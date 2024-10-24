@@ -23,7 +23,7 @@
 </ul>
 <br>
 <a href="https://www.behance.net/gallery/210926111/Fashion-Landing-Page" target="_blank" >
-<img src="./img/shoes-studio-landing-page.png" alt="shoes-studio-landing-page" width="575px" />
+<img src="./img/fashion-landing-page.png" alt="shoes-studio-landing-page" width="575px" />
 </a>
 
 
